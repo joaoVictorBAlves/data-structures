@@ -1,3 +1,9 @@
+def sum(n):
+    if n == 1:
+        return n
+    return n + sum(n-1)
+
+
 def fatorial(n):  # Big O - O(n)
     result = 1
     for i in range(n - 1):
@@ -32,6 +38,6 @@ def binary_search_with_recursion(elem, min, max, array):
 
 if __name__ == '__main__':
     print(fatorial(2))
-    print(fatorial_with_recursion(4))
+    print(sum(4))
 
     lista = [1, 2, 3, 4, 5, 6, 7]
