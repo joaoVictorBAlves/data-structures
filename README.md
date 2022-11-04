@@ -51,3 +51,4 @@ Algorithms are the steps for solve some problem! There is a lot o kind of algori
 ### Big O notation
 ![1_6mpaXFsrRPFXSKXK5Qgm8w](https://user-images.githubusercontent.com/86852231/199863039-ac5b4a62-349d-4efc-84ff-35d8ce367061.png)
 
+## Recursion
