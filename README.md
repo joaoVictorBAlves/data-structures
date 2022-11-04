@@ -29,7 +29,8 @@ Stacks are data structures that store elements in a sequential format, stacking 
 Stack has some methods, see below:
 * Stack up or push is add a data on the top in the stack
 * Stack out or pop is remove a data on the top of the stack
-* We can't acess any index, we just can acess the data in on the top of stack
+* We can't acess any index, we just can acess the data in on the top of stack!
+
 * To replace an item it is necessary to unstack the data, replace  and re-stack data again
 ![pictorial-representation-of-stack](https://user-images.githubusercontent.com/86852231/199861427-cc5e5061-1a70-4c26-9ed7-bd6eb673aa8e.png)
 
@@ -43,3 +44,10 @@ Queue has some methods, see below:
 ![fifo](https://user-images.githubusercontent.com/86852231/199861933-b533c1af-b2aa-47ca-93a1-3772db71d6cf.png)
 
 ## Algorithms, efficiency and Big O notation
+Algorithms are the steps for solve some problem! There is a lot o kind of algorithms, bad, good and efficient algorithms.
+
+`That concept is related to how well you use your resources to accomplish a certain task.`
+
+### Big O notation
+![1_6mpaXFsrRPFXSKXK5Qgm8w](https://user-images.githubusercontent.com/86852231/199863039-ac5b4a62-349d-4efc-84ff-35d8ce367061.png)
+
