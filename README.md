@@ -9,6 +9,8 @@ In computer science, a data structure is a data organization, management, and st
 ### Types of data structures:
 ![image](https://user-images.githubusercontent.com/86852231/199851265-77c4108e-092b-4828-8803-34571ddffbcc.png)
 
+## Linear Data Structures
+
 ### 1) List
 List is a kind of data structure which is made up of nodes, each node has a value and dot by the next node. List has some methods, see below:
 * Add nodes in any index
@@ -40,4 +42,4 @@ Queue has some methods, see below:
 
 ![fifo](https://user-images.githubusercontent.com/86852231/199861933-b533c1af-b2aa-47ca-93a1-3772db71d6cf.png)
 
-
+## Algorithms, efficiency and Big O notation
